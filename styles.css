@@ -609,3 +609,7 @@ nav {
     grid-area: unset;
   }
 }
+
+*{
+  box-sizing: border-box;
+}
